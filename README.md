@@ -1,12 +1,12 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Pʀᴇᴍɪᴜᴍ+Fɪʟᴛᴇʀ+Bᴏᴛ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+TᴀᴍɪʟᴀɴBᴏᴛsZ+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+Tᴀᴍɪʟᴀɴ+Lᴏᴠᴇ+♥️+!!!!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Pʀᴇᴍɪᴜᴍ+Fɪʟᴛᴇʀ+Bᴏᴛ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+TᴀᴍɪʟᴀɴBᴏᴛsZ+RIONETWORKS+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+Tᴀᴍɪʟᴀɴ+Lᴏᴠᴇ+♥️+!!!!)</p>
 <p align="center">
-  <img src="https://te.legra.ph/file/12d811d8bd6d19299f369.jpg" alt="Awesome Filter Logo">
+  <img src="https:" " alt="Awesome Filter Logo">">
   </p>
   <h1 align="center">
     <b>Pʀᴇᴍɪᴜᴍ Fɪʟᴛᴇʀ Rᴇᴩᴏ</b>
     </h1>
 
-# 👩‍💻 Cᴏᴅᴇᴅᴇᴅ Bʏ TᴀᴍɪʟᴀɴBᴏᴛsZ
+# 👩‍💻 Cᴏᴅᴇᴅᴇᴅ Bʏ TᴀᴍɪʟᴀɴBᴏᴛsZ 
 
 🌟 <b>Fᴏʀᴋ & Sᴛᴀʀ Nᴏᴡ</b> 💥
 
@@ -152,7 +152,7 @@ link - 🖇️ ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
 
 ## Cʀᴇᴅɪᴛs
-Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![TᴀᴍɪʟᴀɴBᴏᴛsZ-Mᴇ](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
+Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![TᴀᴍɪʟᴀɴBᴏᴛsZ RIONETWORKS-Mᴇ]()]
 
 ## Tʜᴀɴᴋs Tᴏ 
  <b>- Tʜᴀɴᴋs Tᴏ Mᴇ 🤩
