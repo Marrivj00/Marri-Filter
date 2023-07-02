@@ -22,27 +22,27 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
     PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
 
     ABOUT_TXT ="""<b>🤖Mʏ Nᴀᴍᴇ:{}
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/creatorrio>Click</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Marri_Uchiha>Click</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : RENDER 
-📢 Movie Group : <a href=https://t.me/tamilmovies4Krio>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>"""
+📢 Movie Group : <a href=https://t.me/MARRIROCKERS>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>"""
     SOURCES_TXT ="""MY bots 👇
 
 new bots coming soon so join my uptades
   
--<a href=https://t.me/teamriorenamer_bot>2GB File support Rename Bot</a>
+-<a href=https://t.me/MARRIROCKERS>2GB File support Rename Bot</a>
 
-<a href=https://t.me/Tamilmoviesrio_bot>Auto Filter bot only made Tamil language</a>"""
+<a href=https://t.me/MARRIROCKERS>Auto Filter bot only made Tamil language</a>"""
 
 
     SOURCE_TXT ="""MY bots 👇
 
 new bots coming soon so join my uptades
   
--<a href=https://t.me/teamriorenamer_bot>2GB File support Rename Bot</a>
+-<a href=https://t.me/MARRIROCKERS>2GB File support Rename Bot</a>
 
-<a href=https://t.me/Tamilmoviesrio_bot>Auto Filter bot only made Tamil language</a>"""
+<a href=https://t.me/MARRIROCKERS>Auto Filter bot only made Tamil language</a>"""
 
     FONT_TXT = """I Cᴀɴ Gᴇɴᴇʀᴀᴛᴇ Aᴛᴛʀᴀᴄᴛɪᴠᴇ Fᴏɴᴛs Fᴏʀ Yᴏᴜʀ Tᴇxᴛ Sᴇɴᴅ Lɪᴋᴇ Tʜɪs 👇
 
@@ -76,7 +76,7 @@ new bots coming soon so join my uptades
 
 <b>Aɴᴅ Bᴏᴛ Wɪʟʟ Sᴇɴᴅ Yᴏᴜ Asᴋᴇᴅ Fɪʟᴇ</b>
 
-<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/howtodownloadmoviestamilhd/63>ᴛᴜᴛᴏʀɪᴀʟ</a>.﹤/b>"""
+<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/MARRIROCKERS>ᴛᴜᴛᴏʀɪᴀʟ</a>.﹤/b>"""
 
     CONTACT_TXT = """<b>
 <b>»» ° Oɴʟʏ Cᴏɴᴛᴀᴄᴛ Fᴏʀ Pᴀɪᴅ Wᴏʀᴋs / Pʀᴏʙʟᴇᴍ / Dᴏᴜʙᴛ / Cᴏʟʟᴀʙ / Hᴇʟᴩ °</b>
